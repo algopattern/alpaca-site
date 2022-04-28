@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Alpaca'
+    description: 'Community exploring algorithmic patterns, including in arts and crafts.'
+    twitter: 'algopattern'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,34 +43,36 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Contributors. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2 Jan 2006'
   time_format: '3:04 PM'
-  address_format: en-us
+  address_format: en-gb
 
 # Site features
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
+      - haskell
+      - javascript
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/algopattern/algorithmicpattern.org'
     content_dir: content
     branch: main
   avatar:

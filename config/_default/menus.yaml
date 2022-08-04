@@ -1,4 +1,4 @@
-# Navigation Links
+# Navigation Link
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
@@ -14,7 +14,7 @@ main:
 #    url: people
 #    weight: 30
   - name: Events
-    url: event
+    url: events
     weight: 40
  # - name: Publications
  #   url: publication
@@ -22,6 +22,9 @@ main:
   - name: Forum
     url: https://forum.algorithmicpattern.org/
     weight: 60
+  - name: About
+    url: about
+    weight: 70
   - name: Contact
     url: contact
-    weight: 60
+    weight: 80

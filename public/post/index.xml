@@ -1,25 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Latest News | Algorithmic Pattern</title>
-    <link>https://algorithmicpattern.org/post/</link>
-      <atom:link href="https://algorithmicpattern.org/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language>
-    <image>
-      <url>https://algorithmicpattern.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Latest News</title>
-      <link>https://algorithmicpattern.org/post/</link>
-    </image>
-    
-    <item>
-      <title>Workshop on patterns in live coding and algorithmic music</title>
-      <link>https://algorithmicpattern.org/post/22-08-04-update/</link>
-      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://algorithmicpattern.org/post/22-08-04-update/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://lwlsn.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lizzie Wilson&lt;/a&gt;, &lt;a href=&#34;https://hangar.org/en/ivan-paz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iván Paz&lt;/a&gt; and myself Alex McLean organised a fun algorithmic pattern workshop as part of the &lt;a href=&#34;https://onthefly.space/read/on-the-fly-collect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collect(_)&lt;/a&gt; festival, which was the final event of the Creative Europe on-the-fly project. It included a morning workshop on tablet weaving by &lt;a href=&#34;https://thentrythis.org/about/dave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dave Griffiths&lt;/a&gt;, who introduced this fascinating, ancient craft as a computational artform. This lead into to discussions about patterns in the contemporary practice of &lt;a href=&#34;https://toplap.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;live coding&lt;/a&gt;. Read Dave&amp;rsquo;s &lt;a href=&#34;https://thentrythis.org/notes/2022/07/09/digital-is-physical-remote-tablet-weaving-explorations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post on his workshop&lt;/a&gt; for more info.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | Algorithmic Pattern</title><link>https://algorithmicpattern.org/post/</link><atom:link href="https://algorithmicpattern.org/post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><image><url>https://algorithmicpattern.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Latest News</title><link>https://algorithmicpattern.org/post/</link></image><item><title>Algorithmic pattern online talk series</title><link>https://algorithmicpattern.org/post/talk-series/</link><pubDate>Thu, 04 Aug 2022 19:58:05 +0100</pubDate><guid>https://algorithmicpattern.org/post/talk-series/</guid><description>&lt;p>Around June 2022, we hosted six excellent speakers exploring algorithmic patterns from their own perspectives, in particular:&lt;/p>
+&lt;ul>
+&lt;li>Laura Devendorf on &lt;a href="https://algorithmicpattern.org/events/laura-devendorf/">weaving algorithmic patterns with AdaCAD&lt;/a>&lt;/li>
+&lt;li>Bekah Smith on &lt;a href="https://algorithmicpattern.org/events/bekah-smith/">the mathematics of juggling &amp;lsquo;siteswap&amp;rsquo; patterns&lt;/a>&lt;/li>
+&lt;li>Ron Eglash on &lt;a href="https://algorithmicpattern.org/events/ron-eglash/">heritage algorithms and generative justice&lt;/a>&lt;/li>
+&lt;li>Vernelle Noel on &lt;a href="https://algorithmicpattern.org/events/vernelle-noel/">algorithms of wire-bending&lt;/a>&lt;/li>
+&lt;li>Sarah Hennigh Groff-Palermo on &lt;a href="https://algorithmicpattern.org/events/sarah-ghp/">live coding patterns&lt;/a>&lt;/li>
+&lt;li>B C Manjunath on &lt;a href="https://algorithmicpattern.org/events/manjunath-b-c/">Konnakol patterns in Carnatic music&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>The talks took place online, and happily are all archived and &lt;a href="https://www.youtube.com/playlist?list=PLxqmZjMvoVzwJF2u82XfoAxZmbV_vt3nT" target="_blank" rel="noopener">available to watch&lt;/a> on our youtube channel.&lt;/p></description></item><item><title>Workshop on patterns in live coding and algorithmic music</title><link>https://algorithmicpattern.org/post/22-08-04-update/</link><pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate><guid>https://algorithmicpattern.org/post/22-08-04-update/</guid><description>&lt;p>&lt;a href="https://lwlsn.github.io/" target="_blank" rel="noopener">Lizzie Wilson&lt;/a>, &lt;a href="https://hangar.org/en/ivan-paz/" target="_blank" rel="noopener">Iván Paz&lt;/a> and myself Alex McLean organised a fun algorithmic pattern workshop as part of the &lt;a href="https://onthefly.space/read/on-the-fly-collect" target="_blank" rel="noopener">collect(_)&lt;/a> festival, which was the final event of the Creative Europe on-the-fly project. It included a morning workshop on tablet weaving by &lt;a href="https://thentrythis.org/about/dave/" target="_blank" rel="noopener">Dave Griffiths&lt;/a>, who introduced this fascinating, ancient craft as a computational artform. This lead into to discussions about patterns in the contemporary practice of &lt;a href="https://toplap.org" target="_blank" rel="noopener">live coding&lt;/a>. Read Dave&amp;rsquo;s &lt;a href="https://thentrythis.org/notes/2022/07/09/digital-is-physical-remote-tablet-weaving-explorations/" target="_blank" rel="noopener">blog post on his workshop&lt;/a> for more info.&lt;/p></description></item></channel></rss>

@@ -19,4 +19,4 @@ design:
 
 <br>
 
-Welcome to the website for people interested in algorithmic patterns, whether in textiles, music, architecture, dance, creative coding/live coding, or something else. Please get involved!
+Welcome to the website for people interested in algorithmic patterns, whether in textiles, music, architecture, dance, creative coding/live coding, juggling, or something else.

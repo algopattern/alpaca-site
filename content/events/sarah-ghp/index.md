@@ -12,10 +12,6 @@ event: Online talk
 #  country: United States
 
 summary: Online talk on patterns in the creative performance pratice of live coding.
-abstract: '[Sarah Groff Hennigh-Palermo](https://art.sarahghp.com/) (aka Sarah GHP) is a video artist and javascript developer based between Brooklyn and Berlin. She often takes her algorithmic visual art to the stage, creating it live with her handmade javascript framework [*La Habra*](https://github.com/sarahghp/la-habra), including as part of the audio/visual live coding band [Codie](https://codie.live/). [Sarah’s writing](https://art.sarahghp.com/essays/) on Computer Critical Computer Art demonstrates a thoughtful cultural, aesthetic and political grounding behind her glitchy, abstract and instantly recognisable work.
-
-For the fifth instalment of the algorithmic pattern talk series, Sarah, a [dialogue aficianado](https://outland.art/daniel-temkin-sarah-groff-hennigh-palermo/), was joined by [Alex McLean](https://thentrythis.org/about/alex-mclean/) for an interview-style chat about her work and ideas — including what analog video art has taught her about approaching the digital; historic video cruft; and the perfection of imperfection. Watch the archive of the talk below:
-{{< youtube mg9LGaDd0io >}}'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,6 +30,7 @@ featured: false
 
 image:
   focal_point: Right
+  preview_only: true
 
 url_code: ''
 url_pdf: ''
@@ -54,6 +51,16 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+{{< youtube mg9LGaDd0io >}}
+
+
+[Sarah Groff Hennigh-Palermo](https://art.sarahghp.com/) (aka Sarah GHP) is a video artist and javascript developer based between Brooklyn and Berlin. She often takes her algorithmic visual art to the stage, creating it live with her handmade javascript framework [*La Habra*](https://github.com/sarahghp/la-habra), including as part of the audio/visual live coding band [Codie](https://codie.live/). [Sarah’s writing](https://art.sarahghp.com/essays/) on Computer Critical Computer Art demonstrates a thoughtful cultural, aesthetic and political grounding behind her glitchy, abstract and instantly recognisable work.
+
+For the fifth instalment of the algorithmic pattern talk series, Sarah, a [dialogue aficianado](https://outland.art/daniel-temkin-sarah-groff-hennigh-palermo/), was joined by [Alex McLean](https://thentrythis.org/about/alex-mclean/) for an interview-style chat about her work and ideas — including what analog video art has taught her about approaching the digital; historic video cruft; and the perfection of imperfection. You can watch the archive of the talk above.
+
+## Biography
+
 [Sarah Groff Hennigh-Palermo](https://art.sarahghp.com/) is an artist, programmer, and erstwhile data designer. Her work focuses on using the digital in a manner that can transcend its squalid and militaristic roots and reach out towards the sublime. She has created data-obscured art sites, new computer languages, and hybrid nostalgia machines. Computer errors are her best friends.
 
 Sarah is an alumna of the School for Poetic Computation, Recurse Center, Brown University, and NYU Tandon School of Engineering. In addition to a solo exhibition as part of Wallplay’s On Canal series, she has taken part in group shows at Sonar+D, Westbeth, Day for Night, Flux Factory, and Denver Supernova.

@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/algopattern/algorithmicpattern.org'
+    url: 'https://github.com/algopattern/alpaca-site'
     content_dir: content
     branch: main
   avatar:

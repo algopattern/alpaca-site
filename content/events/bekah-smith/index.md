@@ -12,12 +12,7 @@ event: Online talk
 #  country: United States
 
 summary: Online talk on mathematics of juggling patterns.
-abstract: 'Among her multiple talents, [Bekah Smith](https://www.bekahjuggler.com/) is a professional juggler with 20 years experience, including touring and teaching around the world and co-founding her own circus. Passing juggling patterns is her speciality, using the siteswap juggling notation system to generate and experiment with new patterns from mathematical formalisms. In this hands-on talk, Bekah will introduce us to juggling siteswaps, and give insights into some of the mathematical, creative constraints that underlie them.
-
-[Siteswap notation](https://en.wikipedia.org/wiki/Siteswap) was created in the 1980’s and has been built upon by numerous jugglers since then. Bekah’s work with siteswap focuses on generating patterns for multiple jugglers passing objects together, especially ambidextrous rhythms and sequences where jugglers weave around each other. She also specializes in creating intricate patterns in which objects are not thrown, but placed on a surface, a technique which removes many of the limitations imposed upon juggling by gravity and untrained hand-eye-coordination. Depending on time and interest of participants, we will explore how to generate siteswap patterns and see visual examples.
-
-This talk took place during June 2022, you can watch the archived stream in full below:
-{{< youtube U22dN-OOYzE >}}'
+# abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -36,6 +31,7 @@ featured: false
 
 image:
   focal_point: Right
+  preview_only: true
 
 url_code: ''
 url_pdf: ''
@@ -56,4 +52,14 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+{{< youtube U22dN-OOYzE >}}
+
+Among her multiple talents, [Bekah Smith](https://www.bekahjuggler.com/) is a professional juggler with 20 years experience, including touring and teaching around the world and co-founding her own circus. Passing juggling patterns is her speciality, using the siteswap juggling notation system to generate and experiment with new patterns from mathematical formalisms. In this hands-on talk, Bekah will introduce us to juggling siteswaps, and give insights into some of the mathematical, creative constraints that underlie them.
+
+[Siteswap notation](https://en.wikipedia.org/wiki/Siteswap) was created in the 1980’s and has been built upon by numerous jugglers since then. Bekah’s work with siteswap focuses on generating patterns for multiple jugglers passing objects together, especially ambidextrous rhythms and sequences where jugglers weave around each other. She also specializes in creating intricate patterns in which objects are not thrown, but placed on a surface, a technique which removes many of the limitations imposed upon juggling by gravity and untrained hand-eye-coordination. Depending on time and interest of participants, we will explore how to generate siteswap patterns and see visual examples.
+
+This talk took place during June 2022, you can watch the archived stream in full above.
+
+## Biography
+
 Bekah Smith is a multi-disciplinary artist and educator specializing in juggling, unicycle and clown. Her work is highly centered around busking, [humanitarian clowning](https://clownswithoutborders.org/), and teaching adults and children to juggle 3 balls for their first time. In 2013 she was the co-recipient of the Excellence in Education Award from the International Jugglers’ Association for contributions to youth circus programs in Boulder, Colorado and around the world. Bekah received her BS in Business from Kansas State University. She went on to study theater clown at the San Francisco Clown Conservatory and with Elizabeth Baron. As a current Master’s Student in Creative Technology and Design at CU Boulder’s ATLAS Institute, she researches new technologies for circus and performance art, interactive installations, play spaces, games, and toys.

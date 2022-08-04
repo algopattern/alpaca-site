@@ -13,11 +13,7 @@ event: Online talk
 #  country: United States
 
 summary: Online talk on craft grammar of wire-bending in Trinidad and Tobago carnival.
-abstract: 'At one time, simulations of crafts were rare, and practitioners could claim a kind of innocence. With the MetaVerse, AI, and other computational invasions of every aspect of life, a decolonial approach to craft grammars is desperately needed.
-
-This talk took place early June 2022, you can watch the video archive below.
-
-{{< youtube XibMLPfLh18 >}}'
+# abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -37,6 +33,7 @@ featured: false
 image:
   caption: ''
   focal_point: Right
+  preview_only: true
 
 url_code: ''
 url_pdf: ''
@@ -57,5 +54,13 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+{{< youtube XibMLPfLh18 >}}
+
+At one time, simulations of crafts were rare, and practitioners could claim a kind of innocence. With the MetaVerse, AI, and other computational invasions of every aspect of life, a decolonial approach to craft grammars is desperately needed.
+
+This talk took place early June 2022, you can watch the video archive above.
+
+## Biography
 
 Dr. Ron Eglash is a Professor in the School of Information at University of Michigan. He received his B.S. in Cybernetics, his M.S. in Systems Engineering, and his PhD in History of Consciousness, all from the University of California. His work includes the development of [ethnocomputing](https://csdt.org/), the [technology appropriation framework](https://roneglash.org/eglash.dir/apptech.htm), and [generative justice](https://generativejustice.org/).

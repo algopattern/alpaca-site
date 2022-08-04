@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Algorithmic Pattern</title>
+    <link>https://algorithmicpattern.org/post/</link>
+      <atom:link href="https://algorithmicpattern.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language>
+    <image>
+      <url>https://algorithmicpattern.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://algorithmicpattern.org/post/</link>
+    </image>
+    
+    <item>
+      <title>Workshop on patterns in live coding and algorithmic music</title>
+      <link>https://algorithmicpattern.org/post/22-08-04-update/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/post/22-08-04-update/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lwlsn.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lizzie Wilson&lt;/a&gt;, &lt;a href=&#34;https://hangar.org/en/ivan-paz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Iván Paz&lt;/a&gt; and myself Alex McLean organised a fun algorithmic pattern workshop as part of the &lt;a href=&#34;https://onthefly.space/read/on-the-fly-collect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collect(_)&lt;/a&gt; festival, which was the final event of the Creative Europe on-the-fly project. It included a morning workshop on tablet weaving by &lt;a href=&#34;https://thentrythis.org/about/dave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dave Griffiths&lt;/a&gt;, who introduced this fascinating, ancient craft as a computational artform. This lead into to discussions about patterns in the contemporary practice of &lt;a href=&#34;https://toplap.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;live coding&lt;/a&gt;. Read Dave&amp;rsquo;s &lt;a href=&#34;https://thentrythis.org/notes/2022/07/09/digital-is-physical-remote-tablet-weaving-explorations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post on his workshop&lt;/a&gt; for more info.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

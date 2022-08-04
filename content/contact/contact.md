@@ -17,7 +17,7 @@ content:
 
   email: alex@slab.org
   address:
-    street: Unit F & G, Jubilee Warehouse, Commercial Road
+    street: Then Try This, Unit F & G, Jubilee Warehouse, Commercial Road
     city: Penryn
     region: Cornwall
     postcode: TR10 8AE
@@ -53,4 +53,4 @@ design:
   columns: '1'
 ---
 
-This website is run by Alex McLean of [Then Try This](https://thentrythis.org).
+This website is administrated by Alex McLean of [Then Try This](https://thentrythis.org).

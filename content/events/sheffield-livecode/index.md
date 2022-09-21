@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "TidalCycles meetup Sheffield"
+title: "Algorithmic Pattern meetup Sheffield"
 event: In-person workshop/meetup
 # event_url: asdf
 
@@ -12,13 +12,13 @@ address:
   region: South Yorkshire
   postcode: S1 2HE
   country: United Kingdom
-summary: Aha
+summary: Exploration of TidalCycles 1.9
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2022-09-28T18:00+01:00
-date_end: 2022-09-28T20:00:09+01:00
+date_end: 2022-09-28T20:00:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -68,4 +68,37 @@ slides: ""
 projects: []
 ---
 
-asdf
+* Venue: Access Space at Event Central, [26 Fargate](https://goo.gl/maps/dnCaJo1YxRTh9Ddg7), Sheffield S1 2HE (opp. Marks and Spencer)
+* Time: 6pm-8pm, Weds 28th September 2022
+* Cost: Free, but please [sign up here](https://forms.gle/EBZKa9emvAf4Neno8) so we know how many to expect, and can let you know of any last-minute changes!
+
+*A meetup for people interested in 'algorithmic patterns', in live
+coding and other creative practices.*
+
+For this first meet we'll take a beginner-friendly look at
+[TidalCycles](https://tidalcycles.org/), the free/open source live
+coding environment for live coding and algorithmic music, and in
+particular the newly released version 1.9. The session will be lead by
+Alex McLean, the instigator of the TidalCycles project.
+
+Feel free to bring a laptop to get hands-on with TidalCycles. Please
+try to install [TidalCycles](https://tidalcycles.org) in advance, but
+help will be on hand if you have problems getting it going!
+
+We'll also take a quick look at
+[Strudel](https://strudel.tidalcycles.org), a port of TidalCycles for
+the web browser.
+
+[sign up here](https://forms.gle/EBZKa9emvAf4Neno8)
+
+## Access
+
+The venue has step-free access, and accessible toilet facilities.
+
+## Code of conduct
+
+We are dedicated to providing a harassment-free experience for
+everyone, regardless of gender, gender identity and expression, age,
+sexual orientation, disability, physical appearance, body size, race,
+ethnicity, religion (or lack thereof), or technology choices. This
+applies both in person or via online media. Please check the [full code of conduct here](https://docs.google.com/document/d/1lKHS-tbKSSrF364Psk4JyRacrYEcGKDJXvLB9EkqnOs/edit).

@@ -1,5 +1,5 @@
 ---
-title: The Algorithm of Wire-Bending
+title: "Vernelle Noel: The Algorithm of Wire-Bending"
 
 event: Online talk
 event_url: https://www.youtube.com/watch?v=yWC4p3XwMIo

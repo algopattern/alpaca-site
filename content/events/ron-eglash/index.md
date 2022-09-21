@@ -1,5 +1,5 @@
 ---
-title: 'The End of Innocence for Craft Grammars: why we need Decolonial Computing'
+title: 'Ron Eglash: The End of Innocence for Craft Grammars: why we need Decolonial Computing'
 
 event: Online talk
 # event_url: https://www.youtube.com/watch?v=XibMLPfLh18

@@ -7,7 +7,7 @@
     <description>Recent &amp; Upcoming Events</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language>
     <image>
-      <url>https://algorithmicpattern.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://algorithmicpattern.org/media/logo.svg</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>https://algorithmicpattern.org/events/</link>
     </image>
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>The End of Innocence for Craft Grammars: why we need Decolonial Computing</title>
+      <title>Ron Eglash: The End of Innocence for Craft Grammars: why we need Decolonial Computing</title>
       <link>https://algorithmicpattern.org/events/ron-eglash/</link>
       <pubDate>Tue, 07 Jun 2022 16:00:00 +0000</pubDate>
       <guid>https://algorithmicpattern.org/events/ron-eglash/</guid>
@@ -101,7 +101,7 @@
     </item>
     
     <item>
-      <title>The Algorithm of Wire-Bending</title>
+      <title>Vernelle Noel: The Algorithm of Wire-Bending</title>
       <link>https://algorithmicpattern.org/events/vernelle-noel/</link>
       <pubDate>Tue, 31 May 2022 16:00:00 +0000</pubDate>
       <guid>https://algorithmicpattern.org/events/vernelle-noel/</guid>
@@ -131,6 +131,41 @@
 &lt;p&gt;This talk took place during May 2022, you can watch the archive above.&lt;/p&gt;
 &lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;
 &lt;p&gt;Laura Devendorf is an artist and researcher who questions relationships between technology and culture by playfully subverting and reinterpreting categorizations of “machine” and “body.” Her work presents alternative understandings of technology that draw heavily from feminist techno-science, trading notions of efficiency for engagement, control for humility, and individualism for cooperation and care. Her work takes the form of garments and tapestries with embedded electronics, open-source software, and mixed-media systems. Devendorf is an assistant professor in the ATLAS Institute and the Department of Information Science at the University of Colorado Boulder, where she directs the Unstable Design Lab, and holds a courtesy appointment in the Intermedia Arts Writing and Performance PhD Program. She received her PhD at the UC Berkeley School of Information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algorithmic Pattern meetup Sheffield</title>
+      <link>https://algorithmicpattern.org/events/sheffield-livecode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/events/sheffield-livecode/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Venue: Access Space at Event Central, &lt;a href=&#34;https://goo.gl/maps/dnCaJo1YxRTh9Ddg7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26 Fargate&lt;/a&gt;, Sheffield S1 2HE (opp. Marks and Spencer)&lt;/li&gt;
+&lt;li&gt;Time: 6pm-8pm, Weds 28th September 2022&lt;/li&gt;
+&lt;li&gt;Cost: Free, but please &lt;a href=&#34;https://forms.gle/EBZKa9emvAf4Neno8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign up here&lt;/a&gt; so we know how many to expect, and can let you know of any last-minute changes!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;A meetup for people interested in &amp;lsquo;algorithmic patterns&amp;rsquo;, in live
+coding and other creative practices.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For this first meet we&amp;rsquo;ll take a beginner-friendly look at
+&lt;a href=&#34;https://tidalcycles.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TidalCycles&lt;/a&gt;, the free/open source live
+coding environment for live coding and algorithmic music, and in
+particular the newly released version 1.9. The session will be lead by
+Alex McLean, the instigator of the TidalCycles project.&lt;/p&gt;
+&lt;p&gt;Feel free to bring a laptop to get hands-on with TidalCycles. Please
+try to install &lt;a href=&#34;https://tidalcycles.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TidalCycles&lt;/a&gt; in advance, but
+help will be on hand if you have problems getting it going!&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll also take a quick look at
+&lt;a href=&#34;https://strudel.tidalcycles.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Strudel&lt;/a&gt;, a port of TidalCycles for
+the web browser.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://forms.gle/EBZKa9emvAf4Neno8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign up here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;access&#34;&gt;Access&lt;/h2&gt;
+&lt;p&gt;The venue has step-free access, and accessible toilet facilities.&lt;/p&gt;
+&lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of conduct&lt;/h2&gt;
+&lt;p&gt;We are dedicated to providing a harassment-free experience for
+everyone, regardless of gender, gender identity and expression, age,
+sexual orientation, disability, physical appearance, body size, race,
+ethnicity, religion (or lack thereof), or technology choices. This
+applies both in person or via online media. Please check the &lt;a href=&#34;https://docs.google.com/document/d/1lKHS-tbKSSrF364Psk4JyRacrYEcGKDJXvLB9EkqnOs/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full code of conduct here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -6,7 +6,7 @@ title: Alex McLean
 superuser: true
 
 # Role/position
-role: Researcher
+role: Researcher @ [Then Try This](https://thentrythis.org/)
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: 'https://thentrythis.org/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an interdisciplinary researcher with interests in live coding and algorithmic patterns, including in music, textiles and dance.
+#bio: I am an interdisciplinary researcher with interests in live coding and algorithmic patterns, including in music, textiles and dance.
 
 interests:
   - Algorithmic pattern

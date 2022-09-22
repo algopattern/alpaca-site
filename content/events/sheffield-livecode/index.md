@@ -17,8 +17,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-09-28T18:00+01:00
-date_end: 2022-09-28T20:00:00+01:00
+date: '2022-09-28T18:00+01:00'
+date_end: '2022-09-28T20:00:00+01:00'
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -88,6 +88,14 @@ help will be on hand if you have problems getting it going!
 We'll also take a quick look at
 [Strudel](https://strudel.tidalcycles.org), a port of TidalCycles for
 the web browser.
+
+Timing:
+
+* 5:30pm - set up - feel free to come early and help set out chairs, set up projector etc!
+* 6pm - arrive, casual hellos and welcome, help with Tidal installation woes
+* 6:30pm - talk/demo and hands-on activity
+* 8pm - wrap-up and tidy up
+* 8:30pm - lock up
 
 [sign up here](https://forms.gle/EBZKa9emvAf4Neno8)
 

@@ -1,10 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Algorithmic Pattern meetup Sheffield #1"
+title: "Algorithmic Pattern meetup Sheffield #2"
 event: In-person workshop/meetup
-# event_url: asdf
-
+event_url: 
 location: Access Space at Event Central
 address:
   street: 26 Fargate
@@ -12,17 +11,17 @@ address:
   region: South Yorkshire
   postcode: S1 2HE
   country: United Kingdom
-summary: Exploration of TidalCycles 1.9
+summary: Exploration of Strudel
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-09-28T18:00+01:00'
-date_end: '2022-09-28T20:00:00+01:00'
+date: 2022-11-22T18:00Z
+date_end: 2022-11-22T20:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
-# publishDate: 2022-09-17T21:53:09+01:00
+publishDate: 2022-11-21T09:18:12Z
 
 authors: []
 tags: []
@@ -69,31 +68,27 @@ projects: []
 ---
 
 * Venue: Access Space at Event Central, [26 Fargate](https://goo.gl/maps/dnCaJo1YxRTh9Ddg7), Sheffield S1 2HE (opp. Marks and Spencer)
-* Time: 6pm-8pm, Weds 28th September 2022
-* Cost: Free, but please [sign up here](https://forms.gle/EBZKa9emvAf4Neno8) so we know how many to expect, and can let you know of any last-minute changes!
+* Time: 6pm-8pm, Tuesday 22 November 2022
+* Cost: Free, but please [sign up here](https://forms.gle/XmEZ97fw5BuC2TTa9) so we know how many to expect, and can let you know of any last-minute changes!
+* Imposters welcome! This is an informal, low-stress meetup for people interested in patterns of any kind, where we do some workshop-type activities around them. No particular technical, craft or artistic experience required or assumed.
 
-*A meetup for people interested in 'algorithmic patterns', in live
-coding and other creative practices.*
+*A meetup for people interested in 'algorithmic patterns', in live coding and other creative practices.*
 
-For this first meet we'll take a beginner-friendly look at
-[TidalCycles](https://tidalcycles.org/), the free/open source live
-coding environment for live coding and algorithmic music, and in
-particular the newly released version 1.9. The session will be lead by
-Alex McLean, the instigator of the TidalCycles project.
+For this second meet we'll take a beginner-friendly look at
+[Strudel](https://strudel.tidalcycles.org/), the free/open source live
+coding environment for live coding and algorithmic music in the web
+browser. The session will be lead by Alex McLean, the instigator of
+the project.
 
-Feel free to bring a laptop to get hands-on with TidalCycles. Please
-try to install [TidalCycles](https://tidalcycles.org) in advance, but
-help will be on hand if you have problems getting it going!
-
-We'll also take a quick look at
-[Strudel](https://strudel.tidalcycles.org), a port of TidalCycles for
-the web browser.
+Please bring a laptop, tablet or similar device to get hands-on with
+Strudel. It should run on just about anything without any fuss, but
+[let Alex know](mailto:alex@slab.org) if you have problems!
 
 Timing:
 
 * 5:30pm - set up - feel free to come early and help set out chairs, set up projector etc!
-* 6pm - arrive, casual hellos and welcome, help with Tidal installation woes
-* 6:30pm - talk/demo and hands-on activity
+* 6pm - arrive, casual hellos and welcome, settling in, pattern show-and-tells
+* 6:15pm (depending on if there are pattern show-and-tells) - talk/demo and hands-on activity
 * 8pm - wrap-up and tidy up
 * 8:30pm - lock up
 

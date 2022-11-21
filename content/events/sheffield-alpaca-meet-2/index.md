@@ -21,7 +21,7 @@ date_end: 2022-11-22T20:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-11-21T09:18:12Z
+publishDate: 2022-11-20T09:18:12Z
 
 authors: []
 tags: []
@@ -81,8 +81,9 @@ browser. The session will be lead by Alex McLean, the instigator of
 the project.
 
 Please bring a laptop, tablet or similar device to get hands-on with
-Strudel. It should run on just about anything without any fuss, but
-[let Alex know](mailto:alex@slab.org) if you have problems!
+[Strudel](https://strudel.tidalcycles.org). It should run on just
+about anything without any fuss, but [let Alex
+know](mailto:alex@slab.org) if you have problems!
 
 Timing:
 

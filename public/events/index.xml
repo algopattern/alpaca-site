@@ -13,6 +13,47 @@
     </image>
     
     <item>
+      <title>Algorithmic Pattern meetup Sheffield #2</title>
+      <link>https://algorithmicpattern.org/events/sheffield-alpaca-meet-2/</link>
+      <pubDate>Sun, 20 Nov 2022 09:18:12 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/events/sheffield-alpaca-meet-2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Venue: Access Space at Event Central, &lt;a href=&#34;https://goo.gl/maps/dnCaJo1YxRTh9Ddg7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26 Fargate&lt;/a&gt;, Sheffield S1 2HE (opp. Marks and Spencer)&lt;/li&gt;
+&lt;li&gt;Time: 6pm-8pm, Tuesday 22 November 2022&lt;/li&gt;
+&lt;li&gt;Cost: Free, but please &lt;a href=&#34;https://forms.gle/XmEZ97fw5BuC2TTa9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign up here&lt;/a&gt; so we know how many to expect, and can let you know of any last-minute changes!&lt;/li&gt;
+&lt;li&gt;Imposters welcome! This is an informal, low-stress meetup for people interested in patterns of any kind, where we do some workshop-type activities around them. No particular technical, craft or artistic experience required or assumed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;A meetup for people interested in &amp;lsquo;algorithmic patterns&amp;rsquo;, in live coding and other creative practices.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For this second meet we&amp;rsquo;ll take a beginner-friendly look at
+&lt;a href=&#34;https://strudel.tidalcycles.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Strudel&lt;/a&gt;, the free/open source live
+coding environment for live coding and algorithmic music in the web
+browser. The session will be lead by Alex McLean, the instigator of
+the project.&lt;/p&gt;
+&lt;p&gt;Please bring a laptop, tablet or similar device to get hands-on with
+&lt;a href=&#34;https://strudel.tidalcycles.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Strudel&lt;/a&gt;. It should run on just
+about anything without any fuss, but &lt;a href=&#34;mailto:alex@slab.org&#34;&gt;let Alex
+know&lt;/a&gt; if you have problems!&lt;/p&gt;
+&lt;p&gt;Timing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5:30pm - set up - feel free to come early and help set out chairs, set up projector etc!&lt;/li&gt;
+&lt;li&gt;6pm - arrive, casual hellos and welcome, settling in, pattern show-and-tells&lt;/li&gt;
+&lt;li&gt;6:15pm (depending on if there are pattern show-and-tells) - talk/demo and hands-on activity&lt;/li&gt;
+&lt;li&gt;8pm - wrap-up and tidy up&lt;/li&gt;
+&lt;li&gt;8:30pm - lock up&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://forms.gle/EBZKa9emvAf4Neno8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign up here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;access&#34;&gt;Access&lt;/h2&gt;
+&lt;p&gt;The venue has step-free access, and accessible toilet facilities.&lt;/p&gt;
+&lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of conduct&lt;/h2&gt;
+&lt;p&gt;We are dedicated to providing a harassment-free experience for
+everyone, regardless of gender, gender identity and expression, age,
+sexual orientation, disability, physical appearance, body size, race,
+ethnicity, religion (or lack thereof), or technology choices. This
+applies both in person or via online media. Please check the &lt;a href=&#34;https://docs.google.com/document/d/1lKHS-tbKSSrF364Psk4JyRacrYEcGKDJXvLB9EkqnOs/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full code of conduct here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Workshop: Patterns and Algorithmic Music</title>
       <link>https://algorithmicpattern.org/events/workshop-patterns-and-algorithmic-music/</link>
       <pubDate>Fri, 08 Jul 2022 10:30:00 +0000</pubDate>
@@ -135,7 +176,7 @@
     </item>
     
     <item>
-      <title>Algorithmic Pattern meetup Sheffield</title>
+      <title>Algorithmic Pattern meetup Sheffield #1</title>
       <link>https://algorithmicpattern.org/events/sheffield-livecode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://algorithmicpattern.org/events/sheffield-livecode/</guid>

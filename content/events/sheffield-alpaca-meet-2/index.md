@@ -93,7 +93,7 @@ Timing:
 * 8pm - wrap-up and tidy up
 * 8:30pm - lock up
 
-[sign up here](https://forms.gle/EBZKa9emvAf4Neno8)
+[sign up here](https://forms.gle/XmEZ97fw5BuC2TTa9)
 
 ## Access
 

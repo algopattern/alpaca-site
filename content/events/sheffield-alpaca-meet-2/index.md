@@ -3,7 +3,7 @@
 
 title: "Algorithmic Pattern meetup Sheffield #2"
 event: In-person workshop/meetup
-event_url: 
+
 location: Access Space at Event Central
 address:
   street: 26 Fargate

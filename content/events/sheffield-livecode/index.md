@@ -3,7 +3,6 @@
 
 title: "Algorithmic Pattern meetup Sheffield #1"
 event: In-person workshop/meetup
-# event_url: asdf
 
 location: Access Space at Event Central
 address:
@@ -22,7 +21,7 @@ date_end: 2022-09-28T20:00:00+01:00Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
-# publishDate: 2022-09-17T21:53:09+01:00
+publishDate: 2022-09-17T21:53:09+01:00
 
 authors: []
 tags: []

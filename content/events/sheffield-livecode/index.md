@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Algorithmic Pattern meetup Sheffield #1"
+title: "Algorithmic Pattern Club 1"
 event: In-person workshop/meetup
 
 location: Access Space at Event Central
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -67,12 +67,12 @@ slides: ""
 projects: []
 ---
 
-* Venue: Access Space at Event Central, [26 Fargate](https://goo.gl/maps/dnCaJo1YxRTh9Ddg7), Sheffield S1 2HE (opp. Marks and Spencer)
-* Time: 6pm-8pm, Weds 28th September 2022
-* Cost: Free, but please [sign up here](https://forms.gle/EBZKa9emvAf4Neno8) so we know how many to expect, and can let you know of any last-minute changes!
+- Venue: Access Space at Event Central, [26 Fargate](https://goo.gl/maps/dnCaJo1YxRTh9Ddg7), Sheffield S1 2HE (opp. Marks and Spencer)
+- Time: 6pm-8pm, Weds 28th September 2022
+- Cost: Free, but please [sign up here](https://forms.gle/EBZKa9emvAf4Neno8) so we know how many to expect, and can let you know of any last-minute changes!
 
-*A meetup for people interested in 'algorithmic patterns', in live
-coding and other creative practices.*
+_A meetup for people interested in 'algorithmic patterns', in live
+coding and other creative practices._
 
 For this first meet we'll take a beginner-friendly look at
 [TidalCycles](https://tidalcycles.org/), the free/open source live
@@ -90,11 +90,11 @@ the web browser.
 
 Timing:
 
-* 5:30pm - set up - feel free to come early and help set out chairs, set up projector etc!
-* 6pm - arrive, casual hellos and welcome, help with Tidal installation woes
-* 6:30pm - talk/demo and hands-on activity
-* 8pm - wrap-up and tidy up
-* 8:30pm - lock up
+- 5:30pm - set up - feel free to come early and help set out chairs, set up projector etc!
+- 6pm - arrive, casual hellos and welcome, help with Tidal installation woes
+- 6:30pm - talk/demo and hands-on activity
+- 8pm - wrap-up and tidy up
+- 8:30pm - lock up
 
 [sign up here](https://forms.gle/EBZKa9emvAf4Neno8)
 

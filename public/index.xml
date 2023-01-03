@@ -5,7 +5,7 @@
     <link>https://algorithmicpattern.org/</link>
       <atom:link href="https://algorithmicpattern.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Algorithmic Pattern</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 20 Nov 2022 09:18:12 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 03 Jan 2023 10:56:12 +0000</lastBuildDate>
     <image>
       <url>https://algorithmicpattern.org/media/logo_hu78647a778e99635a5b9ff1f0edb2706f_7534_300x300_fit_lanczos_3.png</url>
       <title>Algorithmic Pattern</title>
@@ -13,7 +13,39 @@
     </image>
     
     <item>
-      <title>Algorithmic Pattern meetup Sheffield #2</title>
+      <title>Sheffield Pattern Club</title>
+      <link>https://algorithmicpattern.org/post/sheffield-pattern-club/</link>
+      <pubDate>Tue, 03 Jan 2023 10:56:12 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/post/sheffield-pattern-club/</guid>
+      <description>&lt;p&gt;Local live coders/pattern enthusiasts &lt;a href=&#34;https://heavy-lifting.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucy
+Cheesman&lt;/a&gt;, &lt;a href=&#34;https://soundcloud.com/eyemeasure&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ray
+Morrison&lt;/a&gt; and I have started a monthly
+&amp;lsquo;pattern club&amp;rsquo; in Sheffield, dedicated to a different kinds of hands-on pattern
+making. The first two events were about live coding music, the last one in
+December 2022 was about Kumihimo braiding, and the next one in January 2023 will
+be about blackwork embroidery, lead by embroidery/creative tech expert &lt;a href=&#34;https://tonibuckby.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Toni
+Buckby&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can stay up to date by joining the mailing list via the website
+&lt;a href=&#34;https://patternclub.org/sheffield/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;patternclub.org/sheffield&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re just getting started with this, but when things are a bit clearer we&amp;rsquo;ll be
+encouraging others to start local pattern clubs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sheffield Pattern Club 3</title>
+      <link>https://algorithmicpattern.org/events/sheffield-pattern-club-3/</link>
+      <pubDate>Tue, 20 Dec 2022 18:00:00 +0000</pubDate>
+      <guid>https://algorithmicpattern.org/events/sheffield-pattern-club-3/</guid>
+      <description>&lt;p&gt;Sheffield Pattern Club (formerly known as algorithmic pattern meetup) is a group
+of people who meet roughly monthly to explore patterns in craft, technology,
+music, performing arts etc. Imposters and beginners are welcome. For more
+details, see &lt;a href=&#34;https://patternclub.org/sheffield/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;patternclub.org/sheffield&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sheffield Pattern Club 2</title>
       <link>https://algorithmicpattern.org/events/sheffield-alpaca-meet-2/</link>
       <pubDate>Sun, 20 Nov 2022 09:18:12 +0000</pubDate>
       <guid>https://algorithmicpattern.org/events/sheffield-alpaca-meet-2/</guid>
@@ -54,7 +86,7 @@ applies both in person or via online media. Please check the &lt;a href=&#34;htt
     </item>
     
     <item>
-      <title>Algorithmic Pattern meetup Sheffield #1</title>
+      <title>Algorithmic Pattern Club 1</title>
       <link>https://algorithmicpattern.org/events/sheffield-livecode/</link>
       <pubDate>Sat, 17 Sep 2022 21:53:09 +0100</pubDate>
       <guid>https://algorithmicpattern.org/events/sheffield-livecode/</guid>
